@@ -1,1 +1,20 @@
 
+li{
+    margin: 20px;
+
+}
+#img{
+    height: 100px;
+    justify-content: left;
+    display: flex;
+}
+.ul{
+    display: flex;
+    list-style-type: none;
+    margin-right: 300px;
+    justify-content: right;
+}
+nav{
+    margin: 50px;
+    justify-content: right;
+}
